@@ -33,7 +33,7 @@
 
 - Tem que separar NFe da chave de acesso
 
-> Relaório de CFOP
+> Relatório de CFOP
 
 - **6108:** Venda não contribuinte - sempre tributado
 - **6404:** 10 ou 70
@@ -46,8 +46,11 @@
 
 - Pedir para arrumar / ajustar
 
+### 4º Produtos de devoluções
 
-
+- Consultar cada NF de referência se tiver recolhimento de DARE ➡️ estornar ICMS e o ST proporcional (via apuração)
+- Fiscal ➡️ relatório ➡️ relatório de saída por devolução com destaque de icms próprio.
+- Planilha com os valores de estorno
 
 
 
