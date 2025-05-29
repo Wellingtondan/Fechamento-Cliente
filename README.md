@@ -22,7 +22,7 @@
 - **Tira fleg:** Considerar cancelada
 - Excluir 1ª linha para colocar no fechamento
 
-#### 3.1 Outras Bases
+#### 3.1 Outras Bases | Relatório
 
 > Arquivei
 
@@ -32,6 +32,21 @@
 > E-Cold
 
 - Tem que separar NFe da chave de acesso
+
+> Relaório de CFOP
+
+- **6108:** Venda não contribuinte - sempre tributado
+- **6404:** 10 ou 70
+
+> Conferência CTE
+
+- Somente lança quando for tomador
+
+> Sem chave
+
+- Pedir para arrumar / ajustar
+
+
 
 
 
