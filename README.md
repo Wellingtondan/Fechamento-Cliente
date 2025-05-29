@@ -4,7 +4,7 @@
 ### 1º Passo - Conferir transferências
 
 - Planilha de Excel - Base das 2 lojas (Documentos fiscais)
-- Matriz: 13.254.314/0001-62 (Pessoa 13317)
+- **Matriz:** 13.254.314/0001-62 (Pessoa 13317)
 - Filial: 13.254.314/0002-43 (Pessoa 52487) 61098
 - CGO saída: 598, 599, 620 e 624
 - CGO entrada: 150 e 151
