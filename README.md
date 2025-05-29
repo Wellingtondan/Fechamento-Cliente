@@ -17,7 +17,23 @@
 ### 3º Passo - Bases
 
 - Bases fechamentos (DOC | UF | SAÍDAS)
-  
+- **Base Sat Fiscal:** Base documentos fiscais
+- **Tipo documento:** Cupom Sat
+- **Tira fleg:** Considerar cancelada
+- Excluir 1ª linha para colocar no fechamento
+
+#### 3.1 Outras Bases
+
+> Arquivei
+
+- **NFE:** 120 dias
+- **CTE:** 120 dias (Pode pegar período do ano todo)
+
+> E-Cold
+
+- Tem que separar NFe da chave de acesso
+
+
 
 
 
