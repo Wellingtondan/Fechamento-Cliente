@@ -92,4 +92,29 @@
 
  `CGO de devolução: 401 | 501`
 
-**OBSERVAÇÃO:** Recolhimento de ST, quando não for estado de MG, PR e RJ, recolhe por operação.
+💬**OBSERVAÇÃO:** Recolhimento de ST, quando não for estado de MG, PR e RJ, recolhe por operação.
+
+### 10º Sintegra Papel
+
+➡️ **Matriz e filial**
+
+- **Filial:** Obrigações federais ➡️ Sintegra
+- **Finalidade:** Normal
+- **Identificação:** Interestaduais Operações com ou sem ST
+- **Formato:** Arquivo separado por estado
+- **Tira fleg:** Gerar registro inventário
+- **Gerar**
+- **Motivo:** OK
+- **Atualiza**
+- Salvar na área de trabalho a conexão (Sintegra XX|XXXX) Matriz e Filial
+- Transferir para minha párea de trabalho
+- Não Entregar os estados (DF | GO | RJ | RS | SE | MT)
+
+➡️ **Validador Sintegra (SC no Portal)
+
+- Fazer estado por estado
+- Validar (Barra de títulos) ... ⬅️ **Observação:* os 3 pontinhos aparece no sistema 
+- Importar 
+
+
+
