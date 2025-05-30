@@ -227,3 +227,14 @@ Lança na prefeitura apenas as notas que tem retenção de ISS.
 
 - IE ➡️ MG - 0027406290098
 - IE ➡️ RJ - 11128807 
+
+
+### 14º Acessos 
+
+Portal do Paraná pra entregar a GIA ST
+
+> [Site](https://receita.pr.gov.br/login)
+
+Portal GNRE para gerar as guias de ICMS ST de MG e RJ
+
+> [Site](https://www.gnre.pe.gov.br:444/gnre/portal/GNRE_Principal.jsp)
