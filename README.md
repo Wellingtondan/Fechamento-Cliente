@@ -1,4 +1,4 @@
-## Fechamento cliente
+# Fechamento cliente
 
 ### 1º Passo - Conferir transferências
 
@@ -47,7 +47,7 @@
 
 ### 4º Produtos de devoluções
 
-- Consultar cada NF de referência se tiver recolhimento de DARE ➡️ estornar ICMS e o ST proporcional (via apuração)
+- Consultar cada NF de referência se tiver recolhimento de DARE ➡️ ```estornar ICMS e o ST proporcional (via apuração)```
 - Fiscal ➡️ relatório ➡️ relatório de saída por devolução com destaque de icms próprio.
 - Planilha com os valores de estorno.
 
@@ -76,7 +76,19 @@
 - **Vendas** Fiscal e gerencial
 - **Relatório de conferência ST:** 6 relatórios ➡️ fiscal ➡️ relatório ➡️ recolhimento por IMCS ST ➡️ agrupamento por UF ➡️ CFOP 6910 | 2411 | 6404
 
-  
 
+### 7º Conferência Venda Consumidor final
+
+- Fiscal: Relatório | Conferência | relatório de ICMS por partilha (Mês anterior)
+- ```Verificar sapida que não é MG | PR | RJ, se recolher guia, MG | PR | RJ tem IE no destino```
+
+### 8º Simples Nacional
+ 
+ `Filtrar apenas alíquotas diferentes de 7%, 12% e 18%`
+ `Valor NFE X Sistema - conferir (CFOP 1102 | 2102)`
+
+### 9º PIS/COFINS 
+
+ `CGO de devolução: 401 | 501`
 
 
