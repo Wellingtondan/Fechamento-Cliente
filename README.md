@@ -136,6 +136,9 @@
   
   ☑️ Pega todas as UF's anota e risca as que não entregam
 
+  🔗 Site é para entregar o SINTEGRA de SC
+   - [Sintegra SC](https://sat.sef.sc.gov.br/tax.NET/Sat.Sintegra.Web/Envio_RemessaForaSC.aspx)
+
 ### 11º Sped Fiscal Papel
 
 ➡️ **Bloco K**
