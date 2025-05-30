@@ -1,4 +1,3 @@
-# Fechamento-Cliente
 ## Fechamento cliente
 
 ### 1º Passo - Conferir transferências
