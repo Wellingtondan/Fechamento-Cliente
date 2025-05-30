@@ -136,4 +136,28 @@
   
   ☑️ Pega todas as UF's anota e risca as que não entregam
 
+### 11º Sped Fiscal Papel
 
+➡️ **Bloco K**
+
+- Para conferência do Bloco K
+- Gerar Bloco K
+- Data é o último dia do mês
+- Finalidade do peíodo
+- **Categoria** (desflegar)
+   - A classificar
+   - Ativo
+ 
+➡️ **Finalidade**  
+
+- Embalagem
+- Matéria-prima
+- Mercadoria para revenda
+- Outros insumos
+- Produto acabado
+- Produto em processo
+- Produto intermediário
+- Sub produto
+
+Para conferir selecionar as mesmas cousas no Bloco H.
+ 
