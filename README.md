@@ -49,8 +49,34 @@
 
 - Consultar cada NF de referência se tiver recolhimento de DARE ➡️ estornar ICMS e o ST proporcional (via apuração)
 - Fiscal ➡️ relatório ➡️ relatório de saída por devolução com destaque de icms próprio.
-- Planilha com os valores de estorno
+- Planilha com os valores de estorno.
 
+### 5º UF ICMS / APURAÇÃO 
+
+- Conferir também apuração ICMS ST (UF ICMS)
+- Conferir também ICMS ST (APURAÇÂO)
+
+### 6º Estruturas das Pastas
+
+- **Apuração ICMS:** 2 apuração | Resumo
+- **Apuração ICMS ST:** Notas e Dares | 6 relatórios sendo 3 apuração | Entrada Resumo | Saída Resumo
+- **Apuração PIS/COFINS:** 4 apuração | Conferência | Devolução | Estorno
+- **Ativo imobilizado:** Livro e notas
+- **Bases:** 6 bases
+- **Combustível:** Livro e notas
+- **Complemento ICMS:** Notas com divergêcnias de valores
+- **Simples Nacional:** Preencher planilha com bases e notas
+- **DARE | GNRE:** Relatório fiscal | Relatório UF | Relatório Posto Fiscal
+- **Despesas interestaduais:** Livros e notas
+- **Energia:** Livro e notas
+- **Livros:** Entrada e saída
+- **Perdas:** Relatórios e notas
+- **Devolução interestadual:** Relatório, planilha e notas
+- **Telefone:** Livro e notas
+- **Vendas** Fiscal e gerencial
+- **Relatório de conferência ST:** 6 relatórios ➡️ fiscal ➡️ relatório ➡️ recolhimento por IMCS ST ➡️ agrupamento por UF ➡️ CFOP 6910 | 2411 | 6404
+
+  
 
 
 
