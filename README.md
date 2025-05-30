@@ -80,7 +80,7 @@
 ### 7º Conferência Venda Consumidor final
 
 - **Fiscal:** Relatório | Conferência | relatório de ICMS por partilha (Mês anterior)
-- ```Verificar sapida que não é MG | PR | RJ, se recolher guia, MG | PR | RJ tem IE no destino```
+- ```Verificar saída que não é MG | PR | RJ, se recolher guia, MG | PR | RJ tem IE no destino```
 
 ### 8º Simples Nacional
  
@@ -146,7 +146,7 @@
 - Para conferência do Bloco K
 - Gerar Bloco K
 - Data é o último dia do mês
-- Finalidade do peíodo
+- Finalidade do período
 - **Categoria** (desflegar)
    - A classificar
    - Ativo
