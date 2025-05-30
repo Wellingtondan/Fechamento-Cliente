@@ -159,5 +159,14 @@
 - Produto intermediário
 - Sub produto
 
-Para conferir selecionar as mesmas cousas no Bloco H.
+Para conferir selecionar as mesmas coisas no Bloco H. 
+
+Salva o arquivo, conferir no excel H010 e K200, faz procv para o código dos produtos
+
+`Para Gerar inventário` - Bloco H
+- Não flegar
+   - A classificar
+   - A queima
+   - Consumo
+   - Sucata
  
