@@ -238,3 +238,7 @@ Portal do Paraná pra entregar a GIA ST
 Portal GNRE para gerar as guias de ICMS ST de MG e RJ
 
 > [Site](https://www.gnre.pe.gov.br:444/gnre/portal/GNRE_Principal.jsp)
+
+Portal para entrega do SINTEGRA SC
+
+> [Sintegra SC](https://sat.sef.sc.gov.br/tax.NET/Sat.Sintegra.Web/Envio_RemessaForaSC.aspx)
