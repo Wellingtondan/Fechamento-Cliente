@@ -79,12 +79,13 @@
 
 ### 7º Conferência Venda Consumidor final
 
-- Fiscal: Relatório | Conferência | relatório de ICMS por partilha (Mês anterior)
+- **Fiscal:** Relatório | Conferência | relatório de ICMS por partilha (Mês anterior)
 - ```Verificar sapida que não é MG | PR | RJ, se recolher guia, MG | PR | RJ tem IE no destino```
 
 ### 8º Simples Nacional
  
  `Filtrar apenas alíquotas diferentes de 7%, 12% e 18%`
+ 
  `Valor NFE X Sistema - conferir (CFOP 1102 | 2102)`
 
 ### 9º PIS/COFINS 
