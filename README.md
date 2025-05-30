@@ -92,4 +92,4 @@
 
  `CGO de devolução: 401 | 501`
 
-
+**OBSERVAÇÃO:** Recolhimento de ST, quando não for estado de MG, PR e RJ, recolhe por operação.
