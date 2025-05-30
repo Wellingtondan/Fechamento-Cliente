@@ -110,11 +110,28 @@
 - Transferir para minha párea de trabalho
 - Não Entregar os estados (DF | GO | RJ | RS | SE | MT)
 
-➡️ **Validador Sintegra (SC no Portal)
+➡️ **Validador Sintegra (SC no Portal)**
 
 - Fazer estado por estado
-- Validar (Barra de títulos) ... ⬅️ **Observação:* os 3 pontinhos aparece no sistema 
-- Importar 
+- Validar (Barra de títulos) ```...```
+- Importar arquivo do estado
+- Validar
+- Resumo
+- Listar CFOP
+- Comparar com relatório UF - CFOP - Estado do arquivo
+- **Gerar mídia** - Salvar na pasta como está
+- **Transmitir** - Confirmar UF de Destino
+- Mídia ```...``` Selecionar a pasta - listar
+- Selecionar o arquivo - Recibo - Salvar na pasta
 
+  
+➡️ **Santa Catarina - Site SC**
+
+- Envio de remessas de contribuintes de outro estado
+- Enviar o arquivo ZIP do validador
+- No validador gerar até chegar na mídia e pegar o número do arquivo para entrega
+- No modulo fiscal ➡️ Relatório UF
+  ☑️ Tira SP para ver se teve ou não notas de outras UF's 
+  ☑️ Pega todas as UF's anota e risca as que não entregam
 
 
