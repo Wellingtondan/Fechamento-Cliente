@@ -131,7 +131,9 @@
 - Enviar o arquivo ZIP do validador
 - No validador gerar até chegar na mídia e pegar o número do arquivo para entrega
 - No modulo fiscal ➡️ Relatório UF
-  ☑️ Tira SP para ver se teve ou não notas de outras UF's 
+  
+  ☑️ Tira SP para ver se teve ou não notas de outras UF's
+  
   ☑️ Pega todas as UF's anota e risca as que não entregam
 
 
