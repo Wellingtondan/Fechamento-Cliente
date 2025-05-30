@@ -169,4 +169,58 @@ Salva o arquivo, conferir no excel H010 e K200, faz procv para o código dos pro
    - A queima
    - Consumo
    - Sucata
+
  
+### 12º NFS da Papel
+
+- Pegar as NFs do sistema e colocar na pasta (1X ppor semana)
+
+➡️ **Optante:** não tem retenção de IR e PCC e dependendo da natureza pode ser que tenha ISS ou INSS.
+
+➡️ **Não optante:** Tem retenções.
+
+- Podendo ter ou não ISS retiro para a Papel.
+
+- Código 10.09 - toda nota de não optante tem IR vindo ou não destacado em nota
+
+➡️ Regra geral o ISS é recolhido pelo prestador, salvo alguns serviços que ai o recolhimento terá que ser pelo tomador.
+ 
+#### 12.1 Papel Matriz
+
+Lança na prefeitura apenas as notas que tem retenção de ISS.
+
+➡️ Retenção na fonte ➡️ lançamento
+
+➡️ Referência ➡️ mês | ano
+
+➡️ Prestador ➡️ CNPJ ☑️
+
+➡️ Optante ➡️ Coloca - Sim
+
+➡️ Alíquota SN ➡️ Sempre coloca a alíquota da nota
+
+➡️ Faz guia de retenção por prestador
+
+#### 12.2 Papel Filial
+
+➡️ Itupeva ➡️ ainda não tem
+
+➡️ Araraquara - lança todas as notas na prefeitura
+
+### 13º Obrigação Federal - GIA ST
+
+➡️ Gera gia individual (MG, PR e RJ)
+
+➡️ Relatório UF por CFOP (2411, 6404 e 6910) filtrar por UF igual gerado o arquivo.
+
+- MG e RJ ➡️ entrega pelo app (GIA S)
+- PR ➡️ entrega pelo site (preenche conforme relatório UF e já entrega)
+- ICMS ST do PR ➡️ gera com vencimento para o último dia do mês
+
+➡️ Códigos GNRE
+
+- 100048 ➡️ ICMS ST
+- 100110 ➡️ Difal não contribuinte
+
+- IE ➡️ MG - 0027406290098
+- IE ➡️ RJ - 11128807 
