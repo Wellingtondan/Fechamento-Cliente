@@ -233,12 +233,12 @@ Lança na prefeitura apenas as notas que tem retenção de ISS.
 
 Portal do Paraná pra entregar a GIA ST
 
-> [Site](https://receita.pr.gov.br/login)
+> [PORTAL GIA ST](https://receita.pr.gov.br/login)
 
 Portal GNRE para gerar as guias de ICMS ST de MG e RJ
 
-> [Site](https://www.gnre.pe.gov.br:444/gnre/portal/GNRE_Principal.jsp)
+> [PORTAL GNRE](https://www.gnre.pe.gov.br:444/gnre/portal/GNRE_Principal.jsp)
 
 Portal para entrega do SINTEGRA SC
 
-> [Sintegra SC](https://sat.sef.sc.gov.br/tax.NET/Sat.Sintegra.Web/Envio_RemessaForaSC.aspx)
+> [SINTEGRA SC](https://sat.sef.sc.gov.br/tax.NET/Sat.Sintegra.Web/Envio_RemessaForaSC.aspx)
