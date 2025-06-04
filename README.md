@@ -297,4 +297,7 @@ https://coggle.it/
 - Trello
 - Notion
 - Power bi
-  
+- jotform
+- forms
+
+- https://www.youtube.com/watch?v=Y1RS_WDEIiY (Power bi)  
