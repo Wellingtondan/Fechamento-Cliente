@@ -283,5 +283,9 @@ O contribuinte obrigado à EFD deverá transmitir o arquivo digital nos termos d
 
 [link](https://www4.fazenda.sp.gov.br/DareICMS/)
 
+- SICALC
+
+[LINK](https://sicalc.receita.economia.gov.br/sicalc/rapido/contribuinte)
+
 [PLANILHA MODELO CAPAS](https://github.com/Wellingtondan/Alteracao_MVA_2.0_c5/blob/main/Planilha_modelo_capas.xlsx)
 
