@@ -279,5 +279,9 @@ Entrega do arquivo digital relativo a EFD - Escrituraçao Fiscal Digital (SPED F
 
 O contribuinte obrigado à EFD deverá transmitir o arquivo digital nos termos da Portaria CAT 147/2009.
 
+- DARE
 
+[link](https://www4.fazenda.sp.gov.br/DareICMS/)
+
+[PLANILHA MODELO CAPAS](https://github.com/Wellingtondan/Alteracao_MVA_2.0_c5/blob/main/Planilha_modelo_capas.xlsx)
 
