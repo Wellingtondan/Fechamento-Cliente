@@ -289,3 +289,12 @@ O contribuinte obrigado à EFD deverá transmitir o arquivo digital nos termos d
 
 [PLANILHA MODELO CAPAS](https://github.com/Wellingtondan/Alteracao_MVA_2.0_c5/blob/main/Planilha_modelo_capas.xlsx)
 
+
+- COggle
+
+https://coggle.it/
+
+- Trello
+- Notion
+- Power bi
+  
